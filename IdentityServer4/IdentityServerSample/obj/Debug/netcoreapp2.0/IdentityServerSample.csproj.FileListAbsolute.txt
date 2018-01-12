@@ -1,0 +1,11 @@
+C:\Users\ZXL\Documents\GitHub\Learn\IdentityServerSample\bin\Debug\netcoreapp2.0\IdentityServerSample.deps.json
+C:\Users\ZXL\Documents\GitHub\Learn\IdentityServerSample\bin\Debug\netcoreapp2.0\IdentityServerSample.runtimeconfig.json
+C:\Users\ZXL\Documents\GitHub\Learn\IdentityServerSample\bin\Debug\netcoreapp2.0\IdentityServerSample.runtimeconfig.dev.json
+C:\Users\ZXL\Documents\GitHub\Learn\IdentityServerSample\bin\Debug\netcoreapp2.0\IdentityServerSample.dll
+C:\Users\ZXL\Documents\GitHub\Learn\IdentityServerSample\obj\Debug\netcoreapp2.0\IdentityServerSample.csprojResolveAssemblyReference.cache
+C:\Users\ZXL\Documents\GitHub\Learn\IdentityServerSample\obj\Debug\netcoreapp2.0\IdentityServerSample.csproj.CoreCompileInputs.cache
+C:\Users\ZXL\Documents\GitHub\Learn\IdentityServerSample\obj\Debug\netcoreapp2.0\IdentityServerSample.AssemblyInfoInputs.cache
+C:\Users\ZXL\Documents\GitHub\Learn\IdentityServerSample\obj\Debug\netcoreapp2.0\IdentityServerSample.AssemblyInfo.cs
+C:\Users\ZXL\Documents\GitHub\Learn\IdentityServerSample\bin\Debug\netcoreapp2.0\IdentityServerSample.pdb
+C:\Users\ZXL\Documents\GitHub\Learn\IdentityServerSample\obj\Debug\netcoreapp2.0\IdentityServerSample.dll
+C:\Users\ZXL\Documents\GitHub\Learn\IdentityServerSample\obj\Debug\netcoreapp2.0\IdentityServerSample.pdb

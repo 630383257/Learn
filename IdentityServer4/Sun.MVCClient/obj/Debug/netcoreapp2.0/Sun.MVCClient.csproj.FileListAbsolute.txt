@@ -1,0 +1,11 @@
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.MVCClient\bin\Debug\netcoreapp2.0\Sun.MVCClient.deps.json
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.MVCClient\bin\Debug\netcoreapp2.0\Sun.MVCClient.runtimeconfig.json
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.MVCClient\bin\Debug\netcoreapp2.0\Sun.MVCClient.runtimeconfig.dev.json
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.MVCClient\bin\Debug\netcoreapp2.0\Sun.MVCClient.dll
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.MVCClient\obj\Debug\netcoreapp2.0\Sun.MVCClient.csprojResolveAssemblyReference.cache
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.MVCClient\obj\Debug\netcoreapp2.0\Sun.MVCClient.csproj.CoreCompileInputs.cache
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.MVCClient\obj\Debug\netcoreapp2.0\Sun.MVCClient.AssemblyInfoInputs.cache
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.MVCClient\obj\Debug\netcoreapp2.0\Sun.MVCClient.AssemblyInfo.cs
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.MVCClient\bin\Debug\netcoreapp2.0\Sun.MVCClient.pdb
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.MVCClient\obj\Debug\netcoreapp2.0\Sun.MVCClient.dll
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.MVCClient\obj\Debug\netcoreapp2.0\Sun.MVCClient.pdb

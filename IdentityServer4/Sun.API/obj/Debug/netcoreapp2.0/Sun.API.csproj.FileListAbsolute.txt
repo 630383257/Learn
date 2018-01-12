@@ -1,0 +1,11 @@
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.API\bin\Debug\netcoreapp2.0\Sun.API.deps.json
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.API\bin\Debug\netcoreapp2.0\Sun.API.runtimeconfig.json
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.API\bin\Debug\netcoreapp2.0\Sun.API.runtimeconfig.dev.json
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.API\bin\Debug\netcoreapp2.0\Sun.API.dll
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.API\obj\Debug\netcoreapp2.0\Sun.API.csprojResolveAssemblyReference.cache
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.API\obj\Debug\netcoreapp2.0\Sun.API.csproj.CoreCompileInputs.cache
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.API\obj\Debug\netcoreapp2.0\Sun.API.AssemblyInfoInputs.cache
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.API\obj\Debug\netcoreapp2.0\Sun.API.AssemblyInfo.cs
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.API\bin\Debug\netcoreapp2.0\Sun.API.pdb
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.API\obj\Debug\netcoreapp2.0\Sun.API.dll
+C:\Users\ZXL\Documents\GitHub\Learn\Sun.API\obj\Debug\netcoreapp2.0\Sun.API.pdb
